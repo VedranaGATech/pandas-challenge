@@ -5,11 +5,16 @@ Module 4 Assignment
 ## Conclusion
 
 Charter Schools are outperforming District Schools in all five categories, by a significant margin of 28% when it comes to percent of overall passing grades. Charter schools and District Schools, both record a higher percent of students passing reading compared to percent of students passing math, but Districts schools are still lagging in percent passing reading by 16%.   
+
+![Image1](https://github.com/VedranaGATech/pandas-challenge/blob/main/PyCitySchools/Images/Picture1.png)
  
 Schools with great number of students have a downward trend on student grade performance. Class size and teacher:student ration would make a big impact on this conclusion and  helpful with further analysis of this trend. 
  
+ ![Image1](https://github.com/VedranaGATech/pandas-challenge/blob/main/PyCitySchools/Images/Picture2.png)
+ 
 Higher per student spending does not correlate with better student performance. On the contrary, schools which have spent less per student, are showing greater results in average scores, and passing grades. 
  
+ ![Image1](https://github.com/VedranaGATech/pandas-challenge/blob/main/PyCitySchools/Images/Picture3.png)
 
 Overall, reading skills are shown to score higher than the math skills across all schools, regardless of the school size and per student spending. Our data does not include further socio and economic demographics, which could further influence and explain some of the disparities in our findings. 
 
